@@ -15,7 +15,7 @@
             <!-- nav bar mamalon tambien xD-->
             <nav class="navbar navbar-expand-lg navbar-light">
     <a class="navbar-brand" href="#">
-        <img src="logo.png" alt="Logo" style="width: 40px;">
+        <img src="<?php echo APP_URL; ?>app/views/img/logo.png" alt="Logo" style="width: 40px;">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>

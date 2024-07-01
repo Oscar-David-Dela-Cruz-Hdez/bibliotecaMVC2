@@ -2,7 +2,7 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
-    background: url('/img/659155.jpg') no-repeat center / cover;
+    background: url('/app/views/img/659155.jpg') no-repeat center / cover;
     background-color: #FFFFFF;
 }
 
@@ -94,7 +94,7 @@ a {
     padding: 20px;
     border: 1px solid #ddd;
     border-radius: 5px;
-    background: url('/img/—Pngtree—manuscripts\ style\ vintage\ paper_1405401.png') no-repeat center / cover;
+    background: url('/app/views/img/—Pngtree—manuscripts\ style\ vintage\ paper_1405401.png') no-repeat center / cover;
     background-color: #F5F5F5;
 }
 

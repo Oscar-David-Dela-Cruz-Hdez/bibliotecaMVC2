@@ -24,16 +24,16 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="./index.html">Inicio</a>
+                        <a class="nav-link" href="<?php echo APP_URL; ?>principale/">Inicio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./iniciosecion.html">Inicio Sesión</a>
+                        <a class="nav-link" href="<?php echo APP_URL; ?>iniziaSessione/">Inicio Sesión</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./registro.html">Registrarse</a>
+                        <a class="nav-link" href="<?php echo APP_URL; ?>documentazione/">Registrarse</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./libros.html">Libros</a>
+                        <a class="nav-link" href="<?php echo APP_URL; ?>libri/">Libros</a>
                     </li>
                 </ul>
             </div>
