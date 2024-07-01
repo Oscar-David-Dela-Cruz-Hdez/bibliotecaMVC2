@@ -1,6 +1,6 @@
 <?php
 
-    const APP_URL="http://localhost/bibliotecaMvc/";
+    const APP_URL="http://localhost/bibliotecaMVC2/";
     const APP_NOME="PRY BIBLIOTECA";
     const APP_NOME_SESSIONE="BIBLI";
 
