@@ -60,14 +60,14 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="book-card">
-                        <img src="<?php echo APP_URL; ?>app/views/img/Sin_títuo.jpg" alt="Libro 1" class="book-img">
+                        <img src="<?php echo APP_URL; ?>app/views/img/Sin_título.jp" alt="Libro 1" class="book-img">
                         <h4 class="mt-3 main-text">Libro 1</h4>
                         <p class="secondary-text">Descripción breve del libro 1.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="book-card">
-                        <img src="<?php echo APP_URL; ?>app/views/img/GLJZ4PpW0AAMz3.jpg" alt="Libro 2" class="book-img">
+                        <img src="<?php echo APP_URL; ?>app/views/img/GLJZ4PpW0AAM8z3.jp" alt="Libro 2" class="book-img">
                         <h4 class="mt-3 main-text">Libro 2</h4>
                         <p class="secondary-text">Descripción breve del libro 2.</p>
                     </div>
