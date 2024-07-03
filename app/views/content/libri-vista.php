@@ -96,7 +96,7 @@
                         <div class="col-md-3 mb-4">
                             <div class="card book-card">
                                 <div class="card-img-wrapper">
-                                    <img src="./img/2-1.png" class="card-img-top" alt="Título del libro">
+                                    <img src="<?php echo APP_URL; ?>app/views/img/2-1.png" class="card-img-top" alt="Título del libro">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Título del Libro 1</h5>
@@ -106,7 +106,7 @@
                         <div class="col-md-3 mb-4">
                             <div class="card book-card">
                                 <div class="card-img-wrapper">
-                                    <img src="./img/GJ7X1mlaMAA0GUJ.jpg" class="card-img-top" alt="Título del libro">
+                                    <img src="<?php echo APP_URL; ?>app/views/img/GJ7X1mlaMAA0GUJ.jpg" class="card-img-top" alt="Título del libro">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Título del Libro 2</h5>
@@ -116,7 +116,7 @@
                         <div class="col-md-3 mb-4">
                             <div class="card book-card">
                                 <div class="card-img-wrapper">
-                                    <img src="./img/GLJZ4PpW0AAM8z3.jpg" class="card-img-top" alt="Título del libro">
+                                    <img src="<?php echo APP_URL; ?>app/views/img/GLJZ4PpW0AAM8z3.jpg" class="card-img-top" alt="Título del libro">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Título del Libro 3</h5>
@@ -126,7 +126,7 @@
                         <div class="col-md-3 mb-4">
                             <div class="card book-card">
                                 <div class="card-img-wrapper">
-                                    <img src="./img/GNbG8Y9X0AAxTXu.png" class="card-img-top" alt="Título del libro">
+                                    <img src="<?php echo APP_URL; ?>app/views/img/GNbG8Y9X0AAxTXu.png" class="card-img-top" alt="Título del libro">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Título del Libro 4</h5>
@@ -136,7 +136,7 @@
                         <div class="col-md-3 mb-4">
                             <div class="card book-card">
                                 <div class="card-img-wrapper">
-                                    <img src="./img/GNfJzMdWUAAWUms.jpg" class="card-img-top" alt="Título del libro">
+                                    <img src="<?php echo APP_URL; ?>app/views/img/GNfJzMdWUAAWUms.jpg" class="card-img-top" alt="Título del libro">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Título del Libro 5</h5>
@@ -146,7 +146,7 @@
                         <div class="col-md-3 mb-4">
                             <div class="card book-card">
                                 <div class="card-img-wrapper">
-                                    <img src="./img/GNU3gtyWAAAyKOl.jpg" class="card-img-top" alt="Título del libro">
+                                    <img src="<?php echo APP_URL; ?>app/views/img/GNU3gtyWAAAyKOl.jpg" class="card-img-top" alt="Título del libro">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Título del Libro 6</h5>
@@ -156,7 +156,7 @@
                         <div class="col-md-3 mb-4">
                             <div class="card book-card">
                                 <div class="card-img-wrapper">
-                                    <img src="./img/rcecexz50rk71.jpg" class="card-img-top" alt="Título del libro">
+                                    <img src="<?php echo APP_URL; ?>app/views/img/rcecexz50rk71.jpg" class="card-img-top" alt="Título del libro">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Título del Libro 7</h5>
@@ -166,7 +166,7 @@
                         <div class="col-md-3 mb-4">
                             <div class="card book-card">
                                 <div class="card-img-wrapper">
-                                    <img src="./img/Sin título.jpg" class="card-img-top" alt="Título del libro">
+                                    <img src="<?php echo APP_URL; ?>app/views/img/Sin_título.jpg" class="card-img-top" alt="Título del libro">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Título del Libro 8</h5>
