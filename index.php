@@ -20,7 +20,7 @@
 <head>
     <?php require_once "./app/views/inc/testa.php"; ?>
 </head>
-<body>
+<body style="background: url('<?php echo APP_URL; ?>app/views/img/659155.jpg') no-repeat center / cover;">
     <?php
         use app\controllers\vistaControllore;
 
