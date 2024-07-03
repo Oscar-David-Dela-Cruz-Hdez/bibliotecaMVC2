@@ -7,7 +7,6 @@
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo APP_URL; ?>app/views/css/principale.css">
 </head>
-                <!-- mejor traje la imagen al php en el css no agarra ᵃᵃᵃᵃᵃᵃᵃᵃᵃᵃ -->
 <body style="background: url('<?php echo APP_URL; ?>app/views/img/659155.jpg') no-repeat center / cover;">
     <div class="d-flex flex-column min-vh-100">
         <!-- header -->
@@ -61,21 +60,21 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="book-card">
-                        <img src="<?php echo APP_URL; ?>app/views/img/Sin_título.jpg" alt="Libro 1">
+                        <img src="<?php echo APP_URL; ?>app/views/img/Sin_títuo.jpg" alt="Libro 1" class="book-img">
                         <h4 class="mt-3 main-text">Libro 1</h4>
                         <p class="secondary-text">Descripción breve del libro 1.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="book-card">
-                        <img src="<?php echo APP_URL; ?>app/views/img/GLJZ4PpW0AAM8z3.jpg" alt="Libro 2">
+                        <img src="<?php echo APP_URL; ?>app/views/img/GLJZ4PpW0AAMz3.jpg" alt="Libro 2" class="book-img">
                         <h4 class="mt-3 main-text">Libro 2</h4>
                         <p class="secondary-text">Descripción breve del libro 2.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="book-card">
-                        <img src="<?php echo APP_URL; ?>app/views/img/GJ7X1mlaMAA0GUJ.jpg" alt="Libro 3">
+                        <img src="<?php echo APP_URL; ?>app/views/img/GJ7X1mlaMA0GUJ.jpg" alt="Libro 3" class="book-img">
                         <h4 class="mt-3 main-text">Libro 3</h4>
                         <p class="secondary-text">Descripción breve del libro 3.</p>
                     </div>
