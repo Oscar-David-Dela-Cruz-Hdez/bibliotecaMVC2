@@ -20,7 +20,7 @@
             </div>
         </header>
 
-        <!-- nav bar -->
+        <!-- nav mamalon -->
         <nav class="navbar navbar-expand-lg navbar-light">
             <a class="navbar-brand" href="#">
                 <img src="<?php echo APP_URL; ?>app/views/img/2-1.png" alt="Logo" style="width: 40px;">
